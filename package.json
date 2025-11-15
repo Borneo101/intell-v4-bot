@@ -1,0 +1,14 @@
+{
+  "name": "intell-v4-bot",
+  "version": "1.0.0",
+  "description": "Secure Intelligence Access Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "grammy": "^1.19.1",
+    "dotenv": "^16.3.1"
+  }
+}
